@@ -17,7 +17,6 @@ Version Control using `Github`     <br>
 
 ---
 <br><br>
-
 ![Project Report (Phase 1)]("https://github.com/mveer1/Database_Restaurant/blob/main/DBMS_Project_report.pdf")
  
 <br><br>
